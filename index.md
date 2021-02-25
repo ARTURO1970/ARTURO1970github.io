@@ -15,4 +15,4 @@ La pista de juego tiene forma de rectángulo, y debe presentar unas dimensiones 
 
 [enlace an linea] https://es.wikipedia.org/wiki/Hockey_sobre_patines
 
-[jugador de hocke]PhotoEditor_20190518_205838377.jpg
+[jugador de hocke](PhotoEditor_20190518_205838377.jpg)
