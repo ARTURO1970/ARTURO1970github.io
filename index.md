@@ -17,3 +17,4 @@ La pista de juego tiene forma de rectángulo, y debe presentar unas dimensiones 
 
 ![PhotoEditor_20190518_205838377](https://user-images.githubusercontent.com/79656818/109535146-80e71400-7abc-11eb-9196-bc2e109e5a25.jpg)
 
+ / * Retorna un hash a partir de un tipo y un texto * /
